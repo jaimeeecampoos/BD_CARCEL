@@ -32,7 +32,7 @@ El proyecto se estructura de la siguiente manera en este repositorio:
   * 📄 `LICENSE` -> Términos legales de distribución (Licencia MIT).
   * 📄 `carcel.sql` -> Script SQL para XAMPP.
   * 📄 `carcel.accdb` -> Archivo de la base de datos original en Microsoft Access.
-  * 📄 `memoria.pdf` -> Documento de la memoria final del trabajo con explicaciones y capturas.
+  * 📄 `JAIME_CAMPOS_MEMORIA_BD_CARCEL.pdf` -> Documento de la memoria final del trabajo con explicaciones y capturas.
 
 * **Dentro de la carpeta `crud/`:**
   * 📄 `index.php` -> Menú principal y enrutador de la aplicación en el servidor.
