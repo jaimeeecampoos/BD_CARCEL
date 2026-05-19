@@ -71,9 +71,9 @@ Este proyecto se distribuye bajo la **Licencia MIT**. Es un software de código 
 
 ---
 **Desarrollado por:** Jaime Campos Cebrián
----
+
 **Grado**: Administración de Sistemas Informáticos en Red
----
+
 **Módulo:** Gestión de Bases de datos
----
+
 **Fecha:** 19 de mayo de 2026
