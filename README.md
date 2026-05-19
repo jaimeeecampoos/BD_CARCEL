@@ -62,7 +62,7 @@ Para replicar y testear el proyecto en tu ordenador local:
 ## 🌐 Enlace al Proyecto en Producción
 La sección correspondiente a la relación intermedia muchos a muchos ha sido desplegada en la nube y puede ser testeada en tiempo real:
 
-🔗 **URL del Despliegue:** [Sustituye este texto por tu enlace de InfinityFree. Ejemplo: http://tu-dominio.infinityfreeapp.com/crud/]
+🔗 **URL del Despliegue:** http://campos-jaime-crud.rf.gd/crud
 
 ---
 
@@ -70,6 +70,7 @@ La sección correspondiente a la relación intermedia muchos a muchos ha sido de
 Este proyecto se distribuye bajo la **Licencia MIT**. Es un software de código abierto de uso libre para fines académicos. Para más información, consulta el archivo `LICENSE` adjunto.
 
 ---
-**Desarrollado por:** [Tu Nombre Completo]  
-**Asignatura:** Desarrollo Web / Bases de Datos  
-**Año:** 2026
+**Desarrollado por:** Jaime Campos
+**Grado**: Administración de Sistemas Informáticos en Red
+**Módulo:** Gestión de Bases de datos
+**Fecha:** 19 de mayo de 2026
