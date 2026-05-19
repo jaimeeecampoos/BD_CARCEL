@@ -70,7 +70,10 @@ La sección correspondiente a la relación intermedia muchos a muchos ha sido de
 Este proyecto se distribuye bajo la **Licencia MIT**. Es un software de código abierto de uso libre para fines académicos. Para más información, consulta el archivo `LICENSE` adjunto.
 
 ---
-**Desarrollado por:** Jaime Campos
+**Desarrollado por:** Jaime Campos Cebrián
+---
 **Grado**: Administración de Sistemas Informáticos en Red
+---
 **Módulo:** Gestión de Bases de datos
+---
 **Fecha:** 19 de mayo de 2026
