@@ -30,8 +30,7 @@ El proyecto se estructura de la siguiente manera en este repositorio:
   * 📁 `crud/` -> Carpeta contenedora de toda la aplicación web.
   * 📄 `README.md` -> Este archivo de documentación técnica.
   * 📄 `LICENSE` -> Términos legales de distribución (Licencia MIT).
-  * 📄 `carcel_local.sql` -> Script SQL para XAMPP (incluye la sentencia `CREATE DATABASE`).
-  * 📄 `carcel_produccion.sql` -> Script SQL optimizado para InfinityFree (no incluye `CREATE DATABASE`, adaptado a las restricciones del hosting).
+  * 📄 `carcel.sql` -> Script SQL para XAMPP.
   * 📄 `carcel.accdb` -> Archivo de la base de datos original en Microsoft Access.
   * 📄 `memoria.pdf` -> Documento de la memoria final del trabajo con explicaciones y capturas.
 
