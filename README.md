@@ -37,8 +37,6 @@ El proyecto se estructura de la siguiente manera en este repositorio:
 * **Dentro de la carpeta `crud/`:**
   * 📄 `index.php` -> Menú principal y enrutador de la aplicación en el servidor.
   * 📄 `dbConnection.php` -> Archivo de conexión activo (apunta a Local por defecto).
-  * 📄 `dbConnection_local.php` -> Plantilla de conexión para el entorno de desarrollo local.
-  * 📄 `dbConnection_produccion.php` -> Plantilla de conexión con las credenciales de InfinityFree.
   * 📁 `preso/` -> Operaciones CRUD personalizadas para la tabla Presos (`index`, `add`, `addAction`, `edit`, `editAction`, `delete`).
   * 📁 `actividad/` -> Operaciones CRUD personalizadas para la tabla Actividades.
   * 📁 `realiza/` -> Operaciones CRUD personalizadas para la tabla intermedia muchos a muchos.
